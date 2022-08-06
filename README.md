@@ -1,7 +1,7 @@
-[![MasterHead]()
+[![MasterHead](https://widdev.com/banner.png)
 <h1 align="center">Hi 👋, I'm Mihiraj Wijesooriya</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
-<img align="right" width="400" src="https://assets2.lottiefiles.com/packages/lf20_ne6kcqfz.json">
+<img align="right" width="400" src="https://widdev.com/dev.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omihiraj&label=Profile%20views&color=0e75b6&style=flat" alt="omihiraj" /> </p>
 
 - 🔭 I’m currently working on [Spruce App](https://github.com/Omihiraj/clean_app)
