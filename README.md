@@ -1,4 +1,4 @@
-[![MasterHead](https://widdev.com/banner.png)
+![MasterHead](https://widdev.com/banner.png)
 <h1 align="center">Hi 👋, I'm Mihiraj Wijesooriya</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <img align="right" width="400" src="https://widdev.com/dev.gif">
