@@ -4,13 +4,13 @@
 <img align="right" width="400" src="https://widdev.com/dev.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omihiraj&label=Profile%20views&color=0e75b6&style=flat" alt="omihiraj" /> </p>
 
-- 🔭 I’m currently working on [WidDev](https://www.facebook.com/widdev/)
+- 🔭 I’m currently working on [PayMedia](https://www.paymedia.lk/)
 
-- 🌱 I’m currently learning **Flutter,React,Node JS,Laravel**
+- 🌱 I’m currently working with **.Net, Flutter, React, NodeJS, Linux, AWS, CI/CD**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Omihiraj](https://github.com/Omihiraj)
 
-- 💬 Ask me about **Flutter,PHP,React**
+- 💬 Ask me about **.Net ,NodeJs ,Flutter ,PHP ,React**
 
 - 📫 How to reach me **omihiraj@gmail.com**
 
