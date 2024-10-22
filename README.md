@@ -1,4 +1,4 @@
-![MasterHead](https://widdev.com/banner-2.png)
+![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHeE3EDW0yZrQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723435511616?e=1735171200&v=beta&t=RqZOMC-T8wLgr48vnpAkvUuG6mRM_LQz4xTWerWA3lc)
 <h1 align="center">Hi 👋, I'm Mihiraj Wijesooriya</h1>
 <h3 align="center">A passionate Full Stack developer from Sri Lanka</h3>
 <img align="right" width="400" src="https://widdev.com/dev.gif">
