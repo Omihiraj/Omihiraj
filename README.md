@@ -22,7 +22,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 
- 
+ <a>
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"
       alt=".NET"
@@ -30,7 +30,7 @@
       height="60"
     />
  
-
+</a>
   
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img
