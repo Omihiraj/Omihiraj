@@ -26,8 +26,8 @@
     <img
       src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg](https://www.vectorlogo.zone/logos/dotnet/dotnet-ar21.svg"
       alt=".NET"
-      width="40"
-      height="40"
+      width="90"
+      height="60"
     />
   </a>
 
