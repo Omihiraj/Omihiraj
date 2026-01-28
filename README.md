@@ -77,17 +77,17 @@ I enjoy designing **highly available, scalable, and secure systems** using cloud
 
 ---
 
-<!--### 📌 Featured Cloud Projects
+### 📌 Featured Cloud Projects
 
-#### 🔹 Scalable .NET Web API on AWS
-- ASP.NET Core Web API deployed on **EC2 with ALB & Auto Scaling**
-- Secure IAM roles and environment-based configuration
-- Centralized logging using **CloudWatch**
+#### 🔹 Serverless Appointment Booking API on AWS
+- .NET Web API refactored to **AWS Lambda + API Gateway** for automatic scaling and zero server management
+- Secure authentication and authorization using **Amazon Cognito**
+- Persistent data stored in **DynamoDB**, static frontend hosted on **S3**
+- Event-driven, cost-efficient, and fully managed serverless architecture
 
-🔗 Repo: https://github.com/Omihiraj/scalable-microservice
-
+🔗 Repo: https://github.com/Omihiraj/aws-serverless-appointment-system
 ---
-
+<!--
 #### 🔹 CI/CD Pipeline for .NET Applications
 - Automated build, test & deployment using **GitHub Actions**
 - Dockerized application deployments
