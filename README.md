@@ -86,8 +86,10 @@ I enjoy designing **highly available, scalable, and secure systems** using cloud
 - Event-driven, cost-efficient, and fully managed serverless architecture
 
 🔗 Repo: https://github.com/Omihiraj/aws-serverless-appointment-system
----
+
 <!--
+
+---
 #### 🔹 CI/CD Pipeline for .NET Applications
 - Automated build, test & deployment using **GitHub Actions**
 - Dockerized application deployments
