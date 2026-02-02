@@ -108,7 +108,7 @@ I enjoy designing **highly available, scalable, and secure systems** using cloud
 
 --- !-->
 
----
+<!-- ---
 ### 📊 GitHub Stats
 
 
@@ -118,7 +118,7 @@ I enjoy designing **highly available, scalable, and secure systems** using cloud
 <p>&nbsp;
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=omihiraj&show_icons=true&locale=en" alt="omihiraj" />
 </p>
-
+-->
 ---
 
 ### 🎯 What I’m Looking For
