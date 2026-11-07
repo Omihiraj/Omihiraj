@@ -1,5 +1,3 @@
-![MasterHead](https://media.licdn.com/dms/image/v2/D5616AQHeE3EDW0yZrQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1723435511616?e=1771459200&v=beta&t=-Y9aBt_-dWoQIcEu8h8iRb2eubFEDOHjvvY7FyD1F6E)
-
 <h1 align="center">Hi 👋, I'm Mihiraj Wijesooriya</h1>
 <h3 align="center">Cloud-Focused .NET Engineer | AWS | Backend & Distributed Systems</h3>
 
